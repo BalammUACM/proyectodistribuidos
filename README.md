@@ -1,2 +1,0 @@
-# proyectodistribuidos
- distribucion de audio
